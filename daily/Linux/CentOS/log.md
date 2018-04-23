@@ -1,4 +1,4 @@
-## CentOS Operation
+## CentOS Operation info
 
 * 运行脚本
     > CD到脚本所在目录
