@@ -30,4 +30,8 @@
 * 查看PATH
     > echo $PATH
 
-* shutdown -r now 立刻重启(root用户使用)    
+* 立刻重启(root用户使用)
+    > shutdown -r now
+
+* 查看端口号
+  > netstat -ntlp
